@@ -66,7 +66,7 @@ Homepage = "https://www.psychopy.org/"
 Download = "https://github.com/psychopy/psychopy/releases/"
 
 [project.gui-scripts]
-psychopy = "psychopy_app:main"
+psychopy = "psychopy_app.psychopyApp:main"
 
 [build-system]
 requires = [
